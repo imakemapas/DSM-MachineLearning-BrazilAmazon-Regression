@@ -3,4 +3,4 @@ Paper: "Sampling design and model selection influence on predictions of chemical
 
 Authors: Niriele Bruno Rogrigues, Theresa Rocco Barbosa, Helena Saraiva Koenow Pinheiro, Marcelo Mancini, Quentin D Read, Joshua Blackstock, Edwin Hans Winzeler, Phillip R Owens, David Miller, Zamir Libohova
 
-Doi:
+Doi: [in review]
